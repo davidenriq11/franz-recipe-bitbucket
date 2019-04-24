@@ -6,6 +6,7 @@
   "main": "index.js",
   "author": "David Enriquez <david@migala.mx>",
   "license": "MIT",
+  "repository": "https://github.com/davidenriq11/franz-recipe-bitbucket",
   "config": {
     "serviceURL": "https://bitbucket.org/"
   }
