@@ -13,4 +13,5 @@ Open the Franz Plugins folder on your machine (note that this dev directory may 
 * Linux: `~/.config/Franz/recipes/dev`
 
 Copy the recipe folder into the plugins directory
+
 Reload Franz
