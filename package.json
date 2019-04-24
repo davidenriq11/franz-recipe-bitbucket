@@ -1,0 +1,12 @@
+{
+  "id": "bitbucket",
+  "name": "Bitbucket",
+  "version": "1.0.1",
+  "description": "Bitbucket",
+  "main": "index.js",
+  "author": "David Enriquez <david@migala.mx>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://bitbucket.org/"
+  }
+}
